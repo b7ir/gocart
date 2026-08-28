@@ -8,8 +8,8 @@ import AdminSidebar from "./AdminSidebar"
 // \u26a0\ufe0f Change this password to your own secret before going live.
 // This is a simple client-side gate: good enough to keep casual visitors
 // out of your admin panel, but not a substitute for real server-side auth.
-const ADMIN_PASSWORD = "Bradost-admin-2026"
-const SESSION_KEY = "Bradost_admin_authed"
+const ADMIN_PASSWORD = "gocart-admin-2026"
+const SESSION_KEY = "gocart_admin_authed"
 
 const AdminLayout = ({ children }) => {
 
